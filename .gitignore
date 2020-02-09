@@ -1,0 +1,6 @@
+*.RData
+*.Rhistory
+*.csv
+*.ipynb
+*.Rproj*
+/data
